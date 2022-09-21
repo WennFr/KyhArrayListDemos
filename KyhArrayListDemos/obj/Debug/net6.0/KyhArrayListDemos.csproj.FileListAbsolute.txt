@@ -1,0 +1,15 @@
+C:\Users\frede\OneDrive\Dokument\Visual Studio 2022\Projects\KyhArrayListDemos\KyhArrayListDemos\bin\Debug\net6.0\KyhArrayListDemos.exe
+C:\Users\frede\OneDrive\Dokument\Visual Studio 2022\Projects\KyhArrayListDemos\KyhArrayListDemos\bin\Debug\net6.0\KyhArrayListDemos.deps.json
+C:\Users\frede\OneDrive\Dokument\Visual Studio 2022\Projects\KyhArrayListDemos\KyhArrayListDemos\bin\Debug\net6.0\KyhArrayListDemos.runtimeconfig.json
+C:\Users\frede\OneDrive\Dokument\Visual Studio 2022\Projects\KyhArrayListDemos\KyhArrayListDemos\bin\Debug\net6.0\KyhArrayListDemos.dll
+C:\Users\frede\OneDrive\Dokument\Visual Studio 2022\Projects\KyhArrayListDemos\KyhArrayListDemos\bin\Debug\net6.0\KyhArrayListDemos.pdb
+C:\Users\frede\OneDrive\Dokument\Visual Studio 2022\Projects\KyhArrayListDemos\KyhArrayListDemos\obj\Debug\net6.0\KyhArrayListDemos.csproj.AssemblyReference.cache
+C:\Users\frede\OneDrive\Dokument\Visual Studio 2022\Projects\KyhArrayListDemos\KyhArrayListDemos\obj\Debug\net6.0\KyhArrayListDemos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frede\OneDrive\Dokument\Visual Studio 2022\Projects\KyhArrayListDemos\KyhArrayListDemos\obj\Debug\net6.0\KyhArrayListDemos.AssemblyInfoInputs.cache
+C:\Users\frede\OneDrive\Dokument\Visual Studio 2022\Projects\KyhArrayListDemos\KyhArrayListDemos\obj\Debug\net6.0\KyhArrayListDemos.AssemblyInfo.cs
+C:\Users\frede\OneDrive\Dokument\Visual Studio 2022\Projects\KyhArrayListDemos\KyhArrayListDemos\obj\Debug\net6.0\KyhArrayListDemos.csproj.CoreCompileInputs.cache
+C:\Users\frede\OneDrive\Dokument\Visual Studio 2022\Projects\KyhArrayListDemos\KyhArrayListDemos\obj\Debug\net6.0\KyhArrayListDemos.dll
+C:\Users\frede\OneDrive\Dokument\Visual Studio 2022\Projects\KyhArrayListDemos\KyhArrayListDemos\obj\Debug\net6.0\refint\KyhArrayListDemos.dll
+C:\Users\frede\OneDrive\Dokument\Visual Studio 2022\Projects\KyhArrayListDemos\KyhArrayListDemos\obj\Debug\net6.0\KyhArrayListDemos.pdb
+C:\Users\frede\OneDrive\Dokument\Visual Studio 2022\Projects\KyhArrayListDemos\KyhArrayListDemos\obj\Debug\net6.0\KyhArrayListDemos.genruntimeconfig.cache
+C:\Users\frede\OneDrive\Dokument\Visual Studio 2022\Projects\KyhArrayListDemos\KyhArrayListDemos\obj\Debug\net6.0\ref\KyhArrayListDemos.dll
